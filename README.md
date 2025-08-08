@@ -20,3 +20,6 @@ This system uses a **Random Forest Classifier** to detect suspicious claims by a
 3. **Model Training** – Trained a **Random Forest** model with **Leave-One-Out Cross-Validation** for robust evaluation.  
 4. **API Development** – Built a **FastAPI** backend to expose a prediction endpoint for real-time claim assessment.
 
+
+##  Link to the Demo Video: 
+https://oracle-my.sharepoint.com/:v:/p/steffy_ranjithkumar/EV4a1sUPFilNjFX4saL_7vEBQwvfG1LV4b6XtOgTAPxMHA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ruThJ9
